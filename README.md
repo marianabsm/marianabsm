@@ -3,7 +3,7 @@
 
 
 ### 🌟 GitHub Stats:
-![Mariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=marianabsm&show_icons=true&theme=solarized-light&title_color=F4B5DF&border_color=99D9EC&icon_color=99D9EC&border_radius=10&bg_color=FAF5E4&text_color=99D9EC)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marianabsm&theme=solarized-light&title_color=F4B5DF&border_color=99D9EC&icon_color=99D9EC&border_radius=10&bg_color=FAF5E4&text_color=99D9EC&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Mariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=marianabsm&show_icons=true&theme=solarized-light&title_color=F4B5DF&border_color=A4D049&icon_color=A4D049&border_radius=10&bg_color=FAF5E4&text_color=A4D049)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=marianabsm&theme=solarized-light&title_color=F4B5DF&border_color=A4D049&icon_color=A4D049&border_radius=10&bg_color=FAF5E4&text_color=A4D049&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
