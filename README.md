@@ -1,4 +1,4 @@
-[![MasterHead] (https://i.pinimg.com/736x/17/30/d1/1730d1cdac68dfbe5aac7e9753ed6adf.jpg)
+[![MasterHead](https://i.pinimg.com/736x/17/30/d1/1730d1cdac68dfbe5aac7e9753ed6adf.jpg)]
 
 ## Hi there, I'm Mariana 🙋🏻‍♀️
 
